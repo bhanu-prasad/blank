@@ -1,0 +1,23 @@
+body{
+  margin-top: 150px;
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+.space{
+  margin-left: 20px;
+}
+.dash{
+  text-decoration : line-through;
+}
+.topcat{
+  display: flex;
+  flex-direction: row;
+
+  justify-content: space-around;
+}
+.card22{
+  background: #fbe0c4;
+}
+.card23{
+  background: #caf7e3;
+}
